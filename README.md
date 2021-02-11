@@ -13,13 +13,17 @@ PROPOSED SYSTEM
 In this section we can see base model which is used to enhance the model for better performance, problem statement, overview of the model explained which have two major works in the framework the understanding and the prediction. The section also explains about the problem statement that is needed to be addressed, which are not possible to solve using existing models of collaborative filtering. 
  
  Modules of the Project 
+ 
 1 Movie lens Dataset upload: In this module the user will enter the application and upload the movie lens data that will store the data into the server, which will be used by the application for prediction. 
+
 2 Movie Based Search: In this segment user can search the movie based on movie that will show the result based on review 
+
 3 SVM AND KNN based Classification of reviews: In this segment once the user can load the movie data set to this application that will start classifies to detect the spam and non-spam for review 
 
-4 Spam & Non-Spam Prediction: Once the data set is processed user can get the output as prediction. This identification of spam helps to improve the accuracy of the prediction. 
- 
- ALGORITHM 
+4 Spam & Non-Spam Prediction: Once the data set is processed user can get the output as prediction. This identification of spam helps to improve the accuracy of the prediction.
+
+ALGORITHM
+
  An algorithm is defined as a set or sequence of statements which are well defined or instructions to solve a particular problem. The instructions must be unambiguous in nature. The algorithm used to design this model is SVM and KNN, SVM AND KNN is the most efficient algorithm for classification in machine learning. 
  
  SVM and KNN SVM and KNN (SVM AND KNN) are a shape of Machine learning wherein the output from preceding step are fed as input to the cutting-edge-day step. In traditional machine learnings, all of the inputs and outputs are independent of every notable, however in times like at the same time as it's far required to are looking forward to the following word of a sentence, the preceding phrases are required and therefore there can be a need to bear in mind the previous terms. Thus SVM and KNN came into lifestyles, which solved this issue with the help of a Hidden Layer. The critical and maximum important feature of SVM AND KNN is Hidden nation, which recollects some information about a sequence. 
