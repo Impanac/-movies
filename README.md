@@ -37,4 +37,5 @@ Evaluating Dataset The dataset used in this project is Movielens 10 M. This data
 Accuracy of Predicted Rating Here to predict the accuracy of the predicted rating, the method adopted is finding Root Mean Square Error RMSE metrics. 
 RMSE=√(∑ (𝒓𝒊 − 𝒑𝒊)𝟐/|𝒔|) 𝑺 𝒊=𝟏 
 Where S denotes set of test, and |S| denotes number of ratings in S. The test of RMSE is conducted on the basis of five different splits and also compares this method with some baseline methods. 
-![](https://github.com/Impanac/-movies/blob/main/Screenshot%20(10).png)
+![](https://github.com/Impanac/-movies/blob/main/Screenshot%20(12).png)
+                       Home page
