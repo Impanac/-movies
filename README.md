@@ -44,5 +44,12 @@ HOME PAGE
 
 LOADING DATASET
 
+
 ![](https://github.com/Impanac/-movies/blob/main/Screenshot%20(13).png)
+
+RECALL VALUES
+
+![](https://github.com/Impanac/-movies/blob/main/Screenshot%20(14).png)
+
+
                        
