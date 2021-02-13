@@ -57,7 +57,14 @@ RECALL VALUES
 
 ![](https://github.com/Impanac/-movies/blob/main/Screenshot%20(17).png)
 
+![](https://github.com/Impanac/-movies/blob/main/Screenshot%20(19).png)
+
+
+RMSE COMPARISION
+
 ![](https://github.com/Impanac/-movies/blob/main/Screenshot%20(18).png)
+
+
 
 
 
