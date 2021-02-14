@@ -65,11 +65,11 @@ RMSE COMPARISION
 ![](https://github.com/Impanac/-movies/blob/main/Screenshot%20(18).png)
 
 
-IMPANA HC
-M-Tech
-Computer science and engineering
-Vidyavardhaka college of Engineering
-Mysore
+IMPANA HC,
+M-Tech,
+Computer science and engineering.
+Vidyavardhaka college of Engineering,
+Mysore.
 
 
 
